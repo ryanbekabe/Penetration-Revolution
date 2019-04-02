@@ -1,0 +1,3 @@
+[+] RESULT 
+[=] Email: kontol
+[=] Pasword: hehe
